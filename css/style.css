@@ -1,0 +1,71 @@
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:80px;
+    flex-direction: column;
+}
+
+
+.gambar3{
+    width: 150px;
+}
+
+.intro {
+  margin-top: 50px; /* Adds space above the intro section */
+}
+
+h2 {
+    color: #000;
+    font-size: 26px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #ffffff;
+    color: #333;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table, th, td {
+  border: 1px solid #333;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f4f4f4;
+}
+
+
+
+nav {
+    background-color: #ffffff;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    font-size: 0.9em;
+    margin-bottom: 500PX;
+}
+
